@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Missael Ching Mendez\\source\\repos\\AutoPlus\\Objects\\Objects.csproj": {}
+    "C:\\Users\\Missael Ching Mendez\\OneDrive\\Escritorio\\AutoPlus\\Objects\\Objects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Missael Ching Mendez\\source\\repos\\AutoPlus\\Objects\\Objects.csproj": {
+    "C:\\Users\\Missael Ching Mendez\\OneDrive\\Escritorio\\AutoPlus\\Objects\\Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Missael Ching Mendez\\source\\repos\\AutoPlus\\Objects\\Objects.csproj",
+        "projectUniqueName": "C:\\Users\\Missael Ching Mendez\\OneDrive\\Escritorio\\AutoPlus\\Objects\\Objects.csproj",
         "projectName": "Objects",
-        "projectPath": "C:\\Users\\Missael Ching Mendez\\source\\repos\\AutoPlus\\Objects\\Objects.csproj",
+        "projectPath": "C:\\Users\\Missael Ching Mendez\\OneDrive\\Escritorio\\AutoPlus\\Objects\\Objects.csproj",
         "packagesPath": "C:\\Users\\Missael Ching Mendez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Missael Ching Mendez\\source\\repos\\AutoPlus\\Objects\\obj\\",
+        "outputPath": "C:\\Users\\Missael Ching Mendez\\OneDrive\\Escritorio\\AutoPlus\\Objects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Missael Ching Mendez\\AppData\\Roaming\\NuGet\\NuGet.Config",
