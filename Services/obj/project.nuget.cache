@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fgEJosaaT20KzdgQ8HbJ7O4tMnfcCxDPM0bNyQ2OK9ugija2V51KLihcUgoCCgo3ifc9M4Ner2NsRzaDwAKfJg==",
+  "dgSpecHash": "tNi+1m7mzaOkh1TOF9Qe5LLGO6OwYlcTbNK+/w74L7J/of96NCT8iIYqijpa7k/V6RY0IMVPQXc5Y4waeIBqVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Missael Ching Mendez\\OneDrive\\Escritorio\\AutoPlus\\Services\\Services.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\salat\\Documents\\GitHub\\AutoPlus\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\salat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\salat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
