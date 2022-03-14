@@ -1,0 +1,10 @@
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\bin\Debug\netcoreapp3.1\Objects.deps.json
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\bin\Debug\netcoreapp3.1\Objects.dll
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\bin\Debug\netcoreapp3.1\Objects.pdb
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\obj\Debug\netcoreapp3.1\Objects.csproj.AssemblyReference.cache
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\obj\Debug\netcoreapp3.1\Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfoInputs.cache
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfo.cs
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\obj\Debug\netcoreapp3.1\Objects.csproj.CoreCompileInputs.cache
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\obj\Debug\netcoreapp3.1\Objects.dll
+C:\Users\salat\Documents\GitHub\AutoPlus\Objects\obj\Debug\netcoreapp3.1\Objects.pdb
